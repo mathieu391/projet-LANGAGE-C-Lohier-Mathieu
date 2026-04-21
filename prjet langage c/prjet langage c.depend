@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1770650828 source:c:\users\126547\downloads\tpc\prjet langage c\main.c
+	<stdio.h>
+
+1772638051 source:a:\desktop\tpc\prjet langage c\main.c
+	<stdio.h>
+	<string.h>
+
+1773677742 source:\\fs4\homedir\126547\desktop\tpc\prjet langage c\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1774517684 source:c:\users\alexa\onedrive\bureau\tpc\prjet langage c\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1774784811 source:c:\users\alexa\onedrive\bureau\tpc 2\prjet langage c\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1776774564 source:\\fs17\homedir\128752\desktop\tpc 2\prjet langage c\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
