@@ -284,7 +284,7 @@ for(int i = 0; i<nbutilisateurs;i++){
         printf("vous etes dans le parkings depuis: %.1f heures\n",duree);
 
     }
-    if(trouve =! 1)
+    if(trouve != 1)
         printf("\n erreur: vehicule introuvable\n");
 }
 
